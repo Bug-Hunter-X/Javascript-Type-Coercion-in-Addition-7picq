@@ -1,0 +1,1 @@
+This code demonstrates a common Javascript pitfall involving type coercion during addition.  When using the + operator with a mix of number and string operands, Javascript will perform string concatenation instead of numerical addition. This can lead to unexpected results. The solution involves explicit type checking or conversion to prevent this.
